@@ -9,7 +9,7 @@ Contact: 12cross@gmail.com
 This is a library to detect Eyeblink Artifact from EEG, using Multi SDW Algorithm
 
 You may try to run as follows to check the results.
->> sample_test
+">> sample_test"
 
 It is recommended to optimize the threshold to adapt your own data.
 
